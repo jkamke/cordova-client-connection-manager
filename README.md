@@ -1,0 +1,1 @@
+# cordova-client-connection-manager
